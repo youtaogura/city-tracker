@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "C-TRACKER 市区町村トラッカー"

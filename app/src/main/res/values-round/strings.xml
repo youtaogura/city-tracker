@@ -1,0 +1,4 @@
+<resources>
+    <string name="nowloading">検出中...</string>
+    <string name="reload">Reload</string>
+</resources>
